@@ -1,5 +1,6 @@
 body {
-  background: rgb(20, 20, 20);
+  background-image: url("./images/LauncherBackground.png");
+  background-size: 100%;
 }
 
 .changelog-title {
@@ -46,4 +47,4 @@ body {
 
 .update-image-container {
   list-style: none;
-}
+}nd:
