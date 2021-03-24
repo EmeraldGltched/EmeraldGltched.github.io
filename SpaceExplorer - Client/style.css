@@ -1,0 +1,42 @@
+.changelog-title {
+  color: rgb(200, 200, 200);
+  text-align: center;
+}
+
+.changelog-update-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px;
+  background: rgb(50, 50, 50);
+  list-style: none;
+  border-radius: 10px;
+}
+
+.update-title {
+  color: rgb(200, 200, 200);
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.update-subtitle {
+  color: rgb(200, 200, 200);
+  text-align: center;
+  margin-top: 0px;
+}
+
+.features {
+  margin: 0px;
+}
+
+.update-features {
+  list-style: none;
+  color: rgb(200, 200, 200);
+  padding: 15px;
+}
+
+.feature {
+  padding: 0px 0px 0px 10px;
+}
+
+.update-image-container {
+  list-style: none;
+}
