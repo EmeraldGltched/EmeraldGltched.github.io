@@ -9,9 +9,12 @@ body {
 
 .changelog-update-container {
   margin: 0px 0px 0px 0px;
-  padding: 0px 0px;
-  background: rgb(50, 50, 50);
+  padding: 0 0px;
   list-style: none;
+}
+
+.changelog-update {
+  background: rgb(50, 50, 50);
   border-radius: 10px;
 }
 
