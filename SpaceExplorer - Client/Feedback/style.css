@@ -1,0 +1,9 @@
+body {
+  background-image: url("../images/LauncherBackground.png");
+  background-size: 100%;
+}
+
+.page-title {
+  color: rgb(200, 200, 200);
+  text-align: center;
+}
