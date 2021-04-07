@@ -28,3 +28,17 @@ body {
   text-decoration: none;
   color: rgb(200, 200, 200);
 }
+
+.page-title {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+.page-subtitle {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 0px;
+  padding: 0px;
+}
