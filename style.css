@@ -10,13 +10,18 @@ body {
   padding: 15px;
   list-style: none;
   background-color: rgb(25, 25, 25);
-  display-type: block;
+  display: flex;
 }
 
 .header-content {
   font-size: 22px;
   margin: 0px;
-  padding: 0px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: rgb(24, 24, 24);
 }
 
 .header-link {
