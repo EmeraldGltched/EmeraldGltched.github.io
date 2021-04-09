@@ -18,10 +18,11 @@ body {
   margin: 0px;
   margin-right: 5px;
   margin-left: 5px;
-  padding: 10px;
+  padding: 1
   padding-right: 10px;
   padding-left: 10px;
   background-color: rgb(24, 24, 24);
+  text-align: center;
 }
 
 .header-link {
@@ -41,4 +42,42 @@ body {
   font-size: 2em;
   margin-top: 0px;
   padding: 0px;
+}
+
+.jams {
+  list-style: none;
+  color: rgb(200, 200, 200);
+  margin: 10px;
+  padding: 0px;
+}
+
+.jam {
+  background-color: rgb(25, 25, 25);
+  border-radius: 10px;
+  padding: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.jam-title {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.jam-content {
+  list-style: none;
+  padding: 5px;
+  margin: 0px;
+}
+
+.requirements {
+  margin: 2.5px;
+  padding-left: 5px;
+}
+
+.content-requirements {
+  padding: 0px;
+  margin: 0px;
+  padding-left: 20px;
 }
