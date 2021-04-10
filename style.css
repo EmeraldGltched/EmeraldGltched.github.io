@@ -23,7 +23,18 @@ body {
   padding-left: 10px;
   background-color: rgb(24, 24, 24);
   text-align: center;
+}
+
+.content-centered {
+  min-height: 1em;
+  display: table-cell;
   vertical-align: middle;
+}
+
+.content-centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header-link {
